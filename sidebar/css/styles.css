@@ -1,0 +1,10 @@
+img {
+  float: right;
+  border-radius: 30%;
+  width: 150px;
+  height: 100px;
+}
+.sidebar{
+  width: 300px;
+  float: left;
+}
