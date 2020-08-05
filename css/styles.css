@@ -1,6 +1,7 @@
 .sidebar{
   width: 300px;
   float: left;
+  background-color: aquamarine;
 }
 img {
   float: right;
