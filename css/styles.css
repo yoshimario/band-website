@@ -19,3 +19,15 @@ img {
   width: 300px;
   float: left;
 }
+@media screen and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+  }   
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    background-color: teal;
+  }
+}
